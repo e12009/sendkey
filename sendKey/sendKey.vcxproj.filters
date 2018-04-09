@@ -29,7 +29,7 @@
     <ClCompile Include="stdafx.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="ConsoleApplication3.cpp">
+    <ClCompile Include="sendKey.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
